@@ -1,4 +1,4 @@
-calss Dog 
+class Dog 
 
 def bark
   puts "Woof!"
